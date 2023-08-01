@@ -26,4 +26,4 @@ Successfull execution of the above command will result two files named cipher.bi
 
  ```rundll32 a.dll, DllRegistryServer```
 
-9. After a second, You will see the connection in your terminal where you started your listener.
+8. After a second, You will see the connection in your terminal where you started your listener.
