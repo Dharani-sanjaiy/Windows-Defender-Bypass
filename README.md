@@ -2,10 +2,7 @@
 
 Tested on 31-07-2023.  [Defender may detect it at the time of you using this. Feel free to do any modifications.]
 
-
-
-[<img src="https://alta-ict.nl/wp-content/uploads/2021/07/microsoft-defender-1024x576.png" width="600" height="300"
-/>](https://youtu.be/P06Pmuvj6J4)
+https://github.com/Dharani-sanjaiy/Windows-Defender-Bypass/assets/72503981/39c6bada-72d8-4a2a-a470-bf498a4d18cd
 
 This is a modified version of @TheD1rkMtr's FilelessPELoader program. The link to the original repo is https://github.com/TheD1rkMtr/FilelessPELoader/. 
 It works by loading Remote AES Encrypted PE in memory, decrypts it and run it.
@@ -32,10 +29,6 @@ Successfull execution of the above command will create two files named cipher.bi
 5.Once dll is created, start the web server and your listener.
 
 6. Transfer the dll to a windows machine.
-
-
-https://github.com/Dharani-sanjaiy/Windows-Defender-Bypass/assets/72503981/39c6bada-72d8-4a2a-a470-bf498a4d18cd
-
 
 7. Open command prompt and run the following command.
 
